@@ -1,0 +1,2 @@
+# CompetitiveCoding
+A coding library.
